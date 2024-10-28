@@ -5,11 +5,13 @@
 ### 👨‍💻 About me:
 
 I'm a future QA engineer. I used to be an electrical engineer before. 
-Just have finished Artsiom Rusau Functional testing course  
+Just have finished Artsiom Rusau Functional testing course and on the way to study autotesting 
 
-- 📫 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-kozimirova-370394a2?trk=contact-info) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maria.doublemary@gmail.com)
+- 📫 Contact me: 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-kozimirova-370394a2?trk=contact-info) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maria.doublemary@gmail.com)
 
-CV: [![Hh Badge](https://i.hh.ru/styles/images/logos/hh.ru__min_.svg?v=11032019)](https://vladivostok.hh.ru/applicant/resumes/view?resume=b85dbf17ff0d8bd50e0039ed1f327355387171) 
+Check out my resume: [![Hh Badge](https://i.hh.ru/styles/images/logos/hh.ru__min_.svg?v=11032019)](https://vladivostok.hh.ru/applicant/resumes/view?resume=b85dbf17ff0d8bd50e0039ed1f327355387171) 
 ---
 
 ### 🤝 Social networks:
@@ -31,7 +33,6 @@ CV: [![Hh Badge](https://i.hh.ru/styles/images/logos/hh.ru__min_.svg?v=11032019)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
   <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
-  <img src="https://docs.testit.software/images/testit_logo_icon.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
@@ -68,5 +69,16 @@ CV: [![Hh Badge](https://i.hh.ru/styles/images/logos/hh.ru__min_.svg?v=11032019)
 </div>
 
 ---
+
+### 💾Test Artifacts
+Java Test Automation
+Webshop testing
+REST and SOAP API testing via Postman
+MySQL
+MongoDB
+Android app testing
+Replacing data with CharlesProxy
+Bash
+Git
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KozimirovaMariia)
