@@ -60,13 +60,13 @@ Just have finished Artsiom Rusau Functional testing course and on the way to stu
 ---
 
 ### 💾Test Artifacts
--[Testing theory](https://github.com/KozimirovaMariia/theory)
--[Test design techniques](https://github.com/KozimirovaMariia/test-design/blob/main/README.md)
--[Testing Documentation](https://github.com/KozimirovaMariia/docs/blob/main/README.md)
--[Web-app testing](https://github.com/KozimirovaMariia/web)
--[Mobile app testing](https://github.com/KozimirovaMariia/mobile)
--[API Testing (Postman)](https://github.com/KozimirovaMariia/api)
--[Working with Database](https://github.com/KozimirovaMariia/database/blob/main/README.md)
--[Bash](https://github.com/KozimirovaMariia/git_bash/blob/main/README.md)
+- [Testing theory](https://github.com/KozimirovaMariia/theory)
+- [Test design techniques](https://github.com/KozimirovaMariia/test-design/blob/main/README.md)
+- [Testing Documentation](https://github.com/KozimirovaMariia/docs/blob/main/README.md)
+- [Web-app testing](https://github.com/KozimirovaMariia/web)
+- [Mobile app testing](https://github.com/KozimirovaMariia/mobile)
+- [API Testing (Postman)](https://github.com/KozimirovaMariia/api)
+- [Working with Database](https://github.com/KozimirovaMariia/database/blob/main/README.md)
+- [Bash](https://github.com/KozimirovaMariia/git_bash/blob/main/README.md)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KozimirovaMariia)
