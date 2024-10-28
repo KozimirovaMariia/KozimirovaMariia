@@ -10,22 +10,14 @@ Just have finished Artsiom Rusau Functional testing course and on the way to stu
 - 📫 Contact me: 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-kozimirova-370394a2?trk=contact-info) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maria.doublemary@gmail.com)
-
-- 👁️‍🗨️ Check out my resume: 
-[![Hh Badge](https://i.hh.ru/styles/images/logos/hh.ru__min_.svg?v=11032019)](https://vladivostok.hh.ru/applicant/resumes/view?resume=b85dbf17ff0d8bd50e0039ed1f327355387171) 
----
-
-### 🤝 Social networks:
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/mariia-kozimirova-370394a2?trk=contact-info" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/@maryko123" target="_blank">
+<div>
+<a href="https://t.me/@maryko123" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
-  </div>
+    </div>
 
+- 🤝 Check out my resume: 
+[![Hh Badge](https://i.hh.ru/styles/images/logos/hh.ru__min_.svg?v=11032019)](https://vladivostok.hh.ru/applicant/resumes/view?resume=b85dbf17ff0d8bd50e0039ed1f327355387171) 
 ---
 
 ### 📁 Testing Documentation:
@@ -38,7 +30,7 @@ Just have finished Artsiom Rusau Functional testing course and on the way to stu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
 
-### 🛠 Wev-app testing:
+### 🛠 Web-app testing:
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
