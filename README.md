@@ -4,11 +4,12 @@
 
 ### 👨‍💻 About me:
 
-I'm a future QA engineer. I used to be an electrical engineer before. Just have finished Artsiom Rusau Functional testing course  
+I'm a future QA engineer. I used to be an electrical engineer before. 
+Just have finished Artsiom Rusau Functional testing course  
 
 - 📫 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-kozimirova-370394a2?trk=contact-info) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maria.doublemary@gmail.com)
 
-CV: [![Hh Badge] (https://i.hh.ru/styles/images/logos/hh.ru__min_.svg?v=11032019)](https://vladivostok.hh.ru/applicant/resumes/view?resume=b85dbf17ff0d8bd50e0039ed1f327355387171) 
+CV: [![Hh Badge](https://i.hh.ru/styles/images/logos/hh.ru__min_.svg?v=11032019)](https://vladivostok.hh.ru/applicant/resumes/view?resume=b85dbf17ff0d8bd50e0039ed1f327355387171) 
 ---
 
 ### 🤝 Social networks:
@@ -24,7 +25,7 @@ CV: [![Hh Badge] (https://i.hh.ru/styles/images/logos/hh.ru__min_.svg?v=11032019
 
 ---
 
-### 📁 Тестовая документация:
+### 📁 Testing Documentation:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -35,41 +36,29 @@ CV: [![Hh Badge] (https://i.hh.ru/styles/images/logos/hh.ru__min_.svg?v=11032019
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
 
----
-
-### 🛠 Тестирование веб-приложений:
+### 🛠 Wev-app testing:
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
-  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
 
----
-
-### 📱 Тестирование мобильных приложений:
+### 📱 Mobile app testing:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
-  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
 </div>
 
-
----
-
-### 💾 Работа с данными:
+### 💾 Working with Data:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
 
----
-
-### ✏️ Работа с кодом:
+### ✏️ Working with Code:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -80,5 +69,4 @@ CV: [![Hh Badge] (https://i.hh.ru/styles/images/logos/hh.ru__min_.svg?v=11032019
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KozimirovaMariia
-)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KozimirovaMariia)
