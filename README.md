@@ -8,13 +8,14 @@ I'm a future QA engineer. I used to be an electrical engineer before.
 Just have finished Artsiom Rusau Functional testing course and on the way to study autotesting 
 
 - 📫 Contact me: 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-kozimirova-370394a2?trk=contact-info) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maria.doublemary@gmail.com)
 <div>
 <a href="https://t.me/@maryko123" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
     </div>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-kozimirova-370394a2?trk=contact-info) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maria.doublemary@gmail.com)
+
 
 - 🤝 Check out my resume: 
 [![Hh Badge](https://i.hh.ru/styles/images/logos/hh.ru__min_.svg?v=11032019)](https://vladivostok.hh.ru/applicant/resumes/view?resume=b85dbf17ff0d8bd50e0039ed1f327355387171) 
