@@ -4,12 +4,13 @@
 
 ### 👨‍💻 About me:
 
-I'm a future QA engineer. I used to be an electrical engineer before. 
-Just have finished Artsiom Rusau Functional testing course and on the way to study autotesting 
+I'm a beginning QA engineer. Just have finished Artsiom's Rusau Functional testing course and on the way to study autotesting.
+I used to be an electrical engineer before. 
+ 
 
 - 📫 Contact me: 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-kozimirova-370394a2?trk=contact-info) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maria.doublemary@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-kozimirova-370394a2?trk=contact-info) 
 [![Telegram Badge](    https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@maryko123)
 
 - 🤝 Check out my resume: 
@@ -59,7 +60,7 @@ Just have finished Artsiom Rusau Functional testing course and on the way to stu
 
 ---
 
-### 💾Test Artifacts
+### 💾Test Artifacts:
 - [Testing theory](https://github.com/KozimirovaMariia/theory)
 - [Test design techniques](https://github.com/KozimirovaMariia/test-design/blob/main/README.md)
 - [Testing Documentation](https://github.com/KozimirovaMariia/docs/blob/main/README.md)
