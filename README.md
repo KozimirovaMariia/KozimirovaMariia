@@ -1,5 +1,5 @@
 
-<img align="right" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/Pootdk/phpfybEOv.gif" height="390"> 
+<img align="right" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/Pootdk/phpfybEOv.gif" height="300"> 
 
 <div align="centr"> 
   
@@ -14,13 +14,14 @@ Just have finished [Artsiom's Rusau Functional testing course](https://rusau.net
 I used to be an electrical engineer before. 
 
 ---
-🤝 Check out my russian resume 
+### 🤝 Check out 
+my russian resume 
 [![Hh Badge](https://i.hh.ru/styles/images/logos/hh.ru__min_.svg?v=11032019)](https://drive.google.com/file/d/12u3bTd7xpa5AbjWiGqZpBHC2tJZMMADL/view?usp=sharing) 
 or english CV
 [![GoogleDrive Badge](https://cdn.icon-icons.com/icons2/3041/PNG/64/google_drive_logo_icon_189245.png)](https://docs.google.com/document/d/1HsbqM82sNRrJrM64secdeZvGjqNIaqexzsE6w3wqNuo/edit?usp=sharing)
 
 
-📫 And feel free to contact me: 
+### 📫 And feel free to contact me: 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maria.doublemary@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-kozimirova-370394a2?trk=contact-info) 
