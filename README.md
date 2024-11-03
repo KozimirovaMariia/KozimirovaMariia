@@ -7,11 +7,11 @@
 
 ### 👨‍💻 About me:
 
-I'm a beginning QA engineer. 
+I'm a beginning QA engineer. I used to be an electrical engineer for 10 years before. 
 
 Just have finished [Artsiom's Rusau Functional testing course](https://rusau.net/qa-from-scratch) and on the way to study autotesting.
 
-I used to be an electrical engineer before. 
+Let's not only find bugs and errors at the software, but make sure it works properly according to the requirements, and even find improvements!
 
 ---
 ### 🤝 Check out 
@@ -23,10 +23,9 @@ or english CV
 
 ### 📫 And feel free to contact me: 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maria.doublemary@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-kozimirova-370394a2?trk=contact-info) 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@maryko123)
-
+<a href= "https://www.linkedin.com/in/mariia-kozimirova/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
+<a href= "https://t.me/maryko123"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
+<a href= "mailto:maria.doublemary@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
  ---
  <div align="center">
   <table>
