@@ -9,7 +9,7 @@
 
 I'm a beginning QA engineer. I used to be an electrical engineer for 10 years before. 
 
-Just have finished [Artsiom's Rusau Functional testing course](https://rusau.net/qa-from-scratch) and on the way to study autotesting.
+Just have finished [Artsiom's Rusau Functional testing course](https://rusau.net/qa-from-scratch) and on the way to study autotesting and do the internship.
 
 Let's not only find bugs and errors at the software, but make sure it works properly according to the requirements, and even find improvements!
 
@@ -21,7 +21,7 @@ or english CV
 [![GoogleDrive Badge](https://cdn.icon-icons.com/icons2/3041/PNG/64/google_drive_logo_icon_189245.png)](https://docs.google.com/document/d/1HsbqM82sNRrJrM64secdeZvGjqNIaqexzsE6w3wqNuo/edit?usp=sharing)
 
 
-### 📫 And feel free to contact me: 
+### 📫 And feel free to contact me (also links are in bio): 
 
 <a href= "https://www.linkedin.com/in/mariia-kozimirova/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
 <a href= "https://t.me/maryko123"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
