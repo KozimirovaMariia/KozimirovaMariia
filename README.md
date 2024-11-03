@@ -1,19 +1,24 @@
 
-<img align="left" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/Pootdk/phpfybEOv.gif" height="370"> 
+<img align="right" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/Pootdk/phpfybEOv.gif" height="390"> 
 
+<div align="centr"> 
+  
 ### Hello, my name is Mariia!
 
 ### 👨‍💻 About me:
 
-I'm a beginning QA engineer. Just have finished Artsiom's Rusau Functional testing course and on the way to study autotesting.
+I'm a beginning QA engineer. 
+
+Just have finished [Artsiom's Rusau Functional testing course](https://rusau.net/qa-from-scratch) and on the way to study autotesting.
+
 I used to be an electrical engineer before. 
 
 ---
-🤝 Check out 
-my russian resume 
+🤝 Check out my russian resume 
 [![Hh Badge](https://i.hh.ru/styles/images/logos/hh.ru__min_.svg?v=11032019)](https://drive.google.com/file/d/12u3bTd7xpa5AbjWiGqZpBHC2tJZMMADL/view?usp=sharing) 
 or english CV
 [![GoogleDrive Badge](https://cdn.icon-icons.com/icons2/3041/PNG/64/google_drive_logo_icon_189245.png)](https://docs.google.com/document/d/1HsbqM82sNRrJrM64secdeZvGjqNIaqexzsE6w3wqNuo/edit?usp=sharing)
+
 
 📫 And feel free to contact me: 
 
